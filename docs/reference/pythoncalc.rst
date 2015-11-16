@@ -1,0 +1,5 @@
+pythoncalc
+==========
+
+.. automodule:: pythoncalc
+    :members:
